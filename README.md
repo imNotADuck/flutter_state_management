@@ -31,8 +31,8 @@ A task management app demonstrates the key features of the package:
 
 ### **1. Explore the Package**
 - **Core Files**:
-  - `lib/my_state_manager.dart`: The main state management logic.
-  - `lib/my_state_provider.dart`: Provider for integrating state management into the Flutter widget tree.
+  - `lib/src/my_state_manager.dart`: The main state management logic.
+  - `lib/src/my_state_provider.dart`: Provider for integrating state management into the Flutter widget tree.
 - **Public Interface**:
   - `lib/mikey_state.dart`: Exports core functionalities for easy integration.
 
