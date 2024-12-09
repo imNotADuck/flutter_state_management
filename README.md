@@ -25,8 +25,6 @@ A task management app demonstrates the key features of the package:
 2. **Asynchronous Updates**: Simulate fetching tasks from an API and seamlessly update the state.
 3. **Complex State Management**: Showcase the handling of nested lists and maps.
 
-![Uploading Simulator Screenshot - iPhone 16 Pro - 2024-12-09 at 20.26.14.png…]()
-
 
 
 ---
